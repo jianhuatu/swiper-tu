@@ -1,6 +1,6 @@
 {
   "name": "swiper-tu",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "swiper 的npm包，官方没有，有的地方会依赖，所以放到自己的个人库中",
   "Keywords": ["swiper"],
   "Homepage": "www.idangero.us",
@@ -16,7 +16,7 @@
     "url" : "https://github.com/jianhuatu/swiper/issues",
     "email" : "tujianhua123@yeah.net"
   },
-  "main": "swiper-3.4.0.min.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
